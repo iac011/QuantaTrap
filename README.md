@@ -1,3 +1,5 @@
+Cai, G. QuantaTrap: a computational framework for trap/defect quantification in persistent luminescence materials. GitHub repository, version v1.0 2025.
+
 # QuantaTrap Python Project
 
 This is a local Python implementation of the QuantaTrap Thermoluminescence (TL) analysis tool. It processes TL glow curves, performs Computerized Glow Curve Deconvolution (CGCD) to quantify continuous trap distributions, and generates comprehensive reports.
